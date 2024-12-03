@@ -1,5 +1,6 @@
 class Solution {
 public:
+//two pointer approach 
     string addSpaces(string s, vector<int>& spaces) {
         string st;
         int j = 0;
