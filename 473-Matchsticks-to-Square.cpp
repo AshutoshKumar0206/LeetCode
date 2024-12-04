@@ -1,4 +1,5 @@
 class Solution {
+    //Recursion
     private:
     bool formSquare(int index, int sum_sides, int req_equal_sides, int square_sides,
     vector<int>& matchsticks, vector<int>&vis){
